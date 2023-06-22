@@ -1,5 +1,6 @@
 # Alembic files
-.alembic
+.alembic/
+alembic/
 .alembic.ini
 
 # Virtual environments
